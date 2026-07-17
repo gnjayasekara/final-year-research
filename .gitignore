@@ -1,0 +1,11 @@
+datasets/
+dataset/
+transformed_datasets/
+data/
+images/
+videos/
+runs/
+weights/
+*.zip
+*.pt
+*.pt
